@@ -18,5 +18,8 @@ return 0;
 void sub1(){
 	printf("I'm sujin hello\n");
 	printf("nice to meet you\n");
+	
+	printf("Hi. This is Jinwoo\n");
+	printf("Please accept my PR\n");
 }
 
